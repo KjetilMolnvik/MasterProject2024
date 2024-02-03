@@ -1,2 +1,2 @@
 # MasterProject2024
-MAster project, detect noise and remove it
+Master project, detect noise and remove it
