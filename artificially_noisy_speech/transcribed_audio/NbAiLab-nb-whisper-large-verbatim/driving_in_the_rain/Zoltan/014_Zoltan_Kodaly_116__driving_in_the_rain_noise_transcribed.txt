@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' så kan for det gjøre den ungarske pedagogen', chunks=None)

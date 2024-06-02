@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og disse tankene om at man har samlet mange år, at man fylte djevelen på disse samlingene, det førte til at i et forhold, når de kom til dette punktet, at de fortalte den som var anklaget, at de hadde drevet en tolvdomssang, så kom bestandig opp neste spørsmål.', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og det her er kvanta om at man har samla mange år av at man hyrta djævel på de slambunne. Det kørte til at vi et forfatt kom til det hovedske og betalte det. Det var anklaget på det her, at det var en proverstøtt av slambunne. Så kom det slandig opp neste kvartal, hvem han var.', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' De fortsatte å sende meg filer. Da de satt der og jobba... På grunn av tidsforskjellen... Da de dro fra studioet på kvelden, lasta de opp filer. Da kunne jeg levere i barnehagen, mikse og gjøre min del av arbeidet. Og så sende av gårde filer til dem, hente den i barnehagen...', chunks=None)

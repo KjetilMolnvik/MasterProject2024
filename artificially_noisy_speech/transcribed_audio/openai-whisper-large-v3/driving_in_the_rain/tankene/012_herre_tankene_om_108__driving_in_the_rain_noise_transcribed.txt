@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og de her tankane om at ein var samla mange år, at ein tilgav djævel på disse samlingane, det kjødde til at i eit forhold, når det kom til dette poenget, at det var anslaget som helte, at dei hadde gått med for å slå opp ham, så kom det samme opp med at han var samla med seg.', chunks=None)

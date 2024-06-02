@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og da er den en ungdom som har laga sammen med kollegaer som har laga og godt og vanlig bra tegninger', chunks=None)

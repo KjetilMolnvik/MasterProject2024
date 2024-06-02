@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Ja, det er et godt spørsmål. Jeg har brukt ganske mye tid på å finne utgangspunkt også. Jeg gikk gjennom det vanlige norske eller vestlige utdanningsløpet og lærte om visse ting og grenser og sånn. Og fikk det som den første lærerboken jeg skrev i salg. Den gikk jo på salg, hva er det med oversettelse?', chunks=None)

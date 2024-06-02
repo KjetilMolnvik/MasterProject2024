@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Sådan Kodai er den ungerske pedagogen som har laget sammen med sin kollega Else Bøk Søne, har laget en fantastisk godt og veldig bra publisjon på et opplegg for å få et bedre gehør. Og de startet allerede i barnehagen i Ungarn med solfag, som de kaller det, altså et solfeg. Hvor de har handtenkt på disse alle stavene.', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Han hadde et større prosjekt gårende da allerede, som var et samarbeidsprosjekt med Stavefront, NYU, MacGill og den kundlede teknisk bar i Stockholm, hvor de satt opp på en sånn spesialmengd framvare som gjorde at de kunne spille konsept som pågikk på alle steder samtidig.', chunks=None)

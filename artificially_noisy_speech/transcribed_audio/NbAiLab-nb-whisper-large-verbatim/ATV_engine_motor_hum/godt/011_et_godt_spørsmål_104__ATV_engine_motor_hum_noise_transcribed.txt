@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' veldig et godt spørsmål og det er jo jeg har altså brukt ganske mye tid på å finne ut av søl også for å ikke altså gjennom det her i grange igjen', chunks=None)

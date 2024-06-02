@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og han er det store prosjektet som har samarbeidet med speiderforbundet og nrk og nrk stockholm hvor man vil sette opp for hos spesialombudsmannen i fremmedhavet sånn at vi kunne helt vi kunne spille etter s som foregikk på alle steiners og fylkeslag', chunks=None)

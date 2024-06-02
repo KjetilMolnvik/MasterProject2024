@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Hvordan er den ungarske pedagogen som har laget sammen med sin kollega Elisabeth Søne, har laget en fantastisk godt og veldig bra produksjon på et utlegg, på et bedre gehør. Og de startet allerede i barnehagen i Ungarn med solter, hvor de har handteng på disse avgjørene.', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Các bạn có thể nhìn thấy những cái bánh mì của mình ở đây. Các bạn có thể nhìn thấy những cái bánh mì của mình ở đây.', chunks=None)

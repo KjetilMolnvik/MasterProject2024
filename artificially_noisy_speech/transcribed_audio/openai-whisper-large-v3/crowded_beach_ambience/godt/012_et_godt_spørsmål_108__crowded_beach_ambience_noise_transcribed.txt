@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text='このように、このように、このように、このように、', chunks=None)

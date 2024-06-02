@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text='... og være med på å skrive forter som drar inn milliarder av dollar...', chunks=None)

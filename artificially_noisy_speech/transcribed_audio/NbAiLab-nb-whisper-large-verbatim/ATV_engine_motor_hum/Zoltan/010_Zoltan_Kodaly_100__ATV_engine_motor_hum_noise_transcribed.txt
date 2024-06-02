@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' så kan hun da gjøre den ungarske pedagogen som som har laga sammen med sin kollega elsebeth søene har laga det fantastisk godt veldig bra produksjon på et utslippsutlegg for å få et bedre gehør og de starter allerede i barnehagen med ungene med solstangskompetere og lslp hvor de har håndtegn på de samme stavene', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Så cellene har fått den koden som de behandler på ulikt vis. Som en notebok er BNA-et. På hver notestrek står det hoder inn av en tyr. Kan du spille til instrument, kan du ta en notelinje og spille. Det blir ulikt om man gir det til en trompet eller et piano.', chunks=None)

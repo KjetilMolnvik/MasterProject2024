@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' så kan vi da gjøre den unge pedagogen som som har laga sammen med kollega elsker', chunks=None)

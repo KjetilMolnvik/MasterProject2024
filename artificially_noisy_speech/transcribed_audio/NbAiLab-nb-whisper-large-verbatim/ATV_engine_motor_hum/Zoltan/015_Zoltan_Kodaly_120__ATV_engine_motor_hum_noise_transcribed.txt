@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og det er ikke greit å si', chunks=None)

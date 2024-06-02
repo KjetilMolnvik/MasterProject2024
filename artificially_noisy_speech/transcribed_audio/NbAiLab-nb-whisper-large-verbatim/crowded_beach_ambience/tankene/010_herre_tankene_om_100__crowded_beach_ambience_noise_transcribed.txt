@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og de herre sansene om at å man var samla mange og at man fylte djevel på disse landlinjene det førte til at i et forhold da når du kom til dette tronsø fortalte den som var anklaga fortalte at de hadde vore med på et trolldomssamling så kom bestandig opp neste spørsmål hvem andre var i stedet', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' altså jeg skjønner jo at det er jo store forskjeller fra å og sånn assosiere seg med', chunks=None)

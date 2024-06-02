@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' så kan hun da gjøre den ungarske pedagogen som som har laga sammen med sin kollega elsebeth søene har laga en godt vennlig ran og de starter allerede i barnehagen og de starter allerede i barnehagen', chunks=None)

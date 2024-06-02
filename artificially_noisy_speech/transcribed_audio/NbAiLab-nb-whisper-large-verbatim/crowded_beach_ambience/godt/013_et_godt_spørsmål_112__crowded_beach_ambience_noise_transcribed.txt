@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' er det greit', chunks=None)

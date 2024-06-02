@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Hvordan er den ungarske pedagogen som har laget sammen med sin kollega Elsi Bøksøen, en fantastisk godt og veldig bra produksjon på et opplegg foran på et fjellet du har. De snakker allerede i barnehagen i Ungarn med solskapet, eller hva det er, hvor de har anbefalt disse beskavelsene.', chunks=None)

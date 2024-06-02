@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' sortankodai er den ungarske pedagogen som som har laga sammen med sin kollega elsebeth søni har laga et fantastisk godt og veldig bra produksjon på et opplegg for å få et bedre gehør og de starta allerede i barnehagen i ungarn med solfa som vi kaller det altså eller solpé hvor de har håndtegn på de samme stavene', chunks=None)

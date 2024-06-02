@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Nå kan vi bare prøve å gå videre til det her. Nå kan vi bare nevne det her, det er det vi har. Det er denne her jorden, det er den som sitter i denne her snart. Nå kan vi se her, det er den som sitter i denne her snart. Nå kan vi se her, det er den som sitter i denne her snart.', chunks=None)

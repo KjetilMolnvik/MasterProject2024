@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og disse tankene om at man var samla mange, og at man tilba djevelen på samlingene, det førte til at i et forhør, når det kom til det forfølgede hadde fortalt det, den som var anklaget fortalte at de hadde vært med på et trolldomssamling, så kom bestandig opp neste spørsmål hvem andre var på sted.', chunks=None)

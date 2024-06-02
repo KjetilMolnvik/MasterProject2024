@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og de her er et trangtak', chunks=None)

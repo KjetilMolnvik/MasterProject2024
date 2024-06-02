@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Kai, jeg skjønner at det er store forskjeller fra å associere deg med digre, altså sånne her superstjerne og New York, og være med på å skrive, ikke altså brar i jorda av dollars, til å være her i Komsø og prøve å drive forskning og finne ut hvordan ting henger sammen.', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Han hadde et større prosjekt gående da allerede som var et samarbeidsprosjekt med Stanford, NYU, McGill og Dantkuliga Petruska i Stockholm. Hvor vi satte opp en spesial lagd trappvare som gjorde at vi kunne spille konsert som pågikk på alle stedene samtidig.', chunks=None)

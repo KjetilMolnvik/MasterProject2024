@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' så kjellerne har fått en side som de behandler på ulikt vis da bruker jeg å forklare det med at som en mytebok så er det en', chunks=None)

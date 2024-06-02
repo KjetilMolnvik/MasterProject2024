@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og vi hadde samtalt om at man låst handen bak samtalen, og at man fylgte hjemme mot samtalen. Og vi hadde samtalt om at man låst handen bak samtalen,', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Det här är ett gott spårsmål. Det här är alltså gruppen som jobbar på turisterna. I utbytet så är det många härvarande, norska, rösta, amerikanska, rösta och andra. Och i uppbytet så är det ju flera rösta som jobbar på turisterna. Och det är mycket på salter som jobbar på varje grupp.', chunks=None)

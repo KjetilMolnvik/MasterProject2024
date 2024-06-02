@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Så cellene har fått den kode som de behandler på oljen.', chunks=None)

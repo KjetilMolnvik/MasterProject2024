@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' så tenker jeg da er den ungarske teologen som som har laga sammen med sin kollega elsebeth støne har laga et fantastisk og godt og veldig bra progresjon på et opplegg for å få et bedre gehør og de starter allerede i barnehagen i ungarn med solvetasje kaller det altså eller solvet hvor de har håndpenger på de samme stavene', chunks=None)

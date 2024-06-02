@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Så hvordan er den ungarske pedagogen som har laga saman med sin kollega Elisabeth Søren, har laga en fantastisk godt og vennlig, bra produksjon for Oslo i forhold til det du har? Og visst har ikke alle de barn har en ungdom med solskap som alle de barn har. Hvorfor har du henpengt det til denne skalen?', chunks=None)

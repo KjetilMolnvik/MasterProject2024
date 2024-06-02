@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Még csak a kis személytével állják meg a működési kárnyék. Szóval a kis személytével állják meg a működési kárnyék.', chunks=None)

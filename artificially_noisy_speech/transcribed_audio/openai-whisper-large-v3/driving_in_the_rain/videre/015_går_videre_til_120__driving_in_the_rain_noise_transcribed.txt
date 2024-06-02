@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og det er bare å prøve å gå videre til det ene utenfor.', chunks=None)

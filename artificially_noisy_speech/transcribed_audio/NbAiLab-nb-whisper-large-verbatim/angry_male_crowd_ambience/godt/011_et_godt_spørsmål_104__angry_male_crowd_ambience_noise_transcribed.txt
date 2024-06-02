@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og jeg har et flott spørsmål og det er jo en helt blikkende støytgang på minutter så er det ofte på ukevis så er det mye som er skjedd og så og og og folk blir de som er plukket ned og brukes på overalt sånn og sånn at de tar en viktig parisering sånn og sånn og og og', chunks=None)

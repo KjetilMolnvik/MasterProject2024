@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Det er et godt spørsmål. Jeg har brukt mye tid på å finne ut av det sjøl. Jeg gikk gjennom det vanlige norske eller vestlige utdanningsløpet og lærte om alle disiplinene og grensene og fulgte det som den første læreboka jeg skrev. Den gikk på det samme som var en oversettelse av det jeg hadde der.', chunks=None)

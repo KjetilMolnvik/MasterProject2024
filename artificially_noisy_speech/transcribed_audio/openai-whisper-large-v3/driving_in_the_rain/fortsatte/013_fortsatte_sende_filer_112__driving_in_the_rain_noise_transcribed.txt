@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' De fortsatte å sende meg filer. Da var det sånn at når de satt der og jobbet, så var det sånn at når de satt der på studiet, så hadde jeg det sånn at jeg kunne levere barnehage, fikse og røre det som var min del av arbeidet. Og så sendte jeg bare filer til dem, og da hentet barnehagen og de fikk meg til barnehage.', chunks=None)

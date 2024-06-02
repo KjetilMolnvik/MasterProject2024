@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og det er bare før vi går videre etter det ene regnestykket som var jo det var jo det var jo det', chunks=None)

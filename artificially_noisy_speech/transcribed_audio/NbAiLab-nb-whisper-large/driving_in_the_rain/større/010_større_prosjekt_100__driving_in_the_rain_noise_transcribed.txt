@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og han hadde et større prosjekt gående da allerede, som var et samarbeidsprosjekt med Stamford, NYU, McGill og Den kunngjorde tekniska i Stockholm. Hvor vi satte opp spesiallagd programvare som gjorde at vi kunne spille konsert som foregikk på alle de stedene samtidig.', chunks=None)

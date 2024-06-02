@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og og han hadde et større prosjekt gående allerede som var et samarbeidsprosjekt med stamford og cmd mcgill og og', chunks=None)

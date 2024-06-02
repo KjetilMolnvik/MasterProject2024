@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og da er den ungarske pedologen som har laget sammen med min kollega Elisabeth Søne, har laget et fantastisk godt og veldig bra produksjon på et opplegg for å få et bedre gehør. Og de startet allerede i barnehagen i Ungarn med solfas, eller solfé, hvor de har handtenkt på de samme stavrene.', chunks=None)

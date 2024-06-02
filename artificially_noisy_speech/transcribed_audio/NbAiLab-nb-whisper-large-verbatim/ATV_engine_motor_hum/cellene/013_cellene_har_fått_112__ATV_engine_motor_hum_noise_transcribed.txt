@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' på kjellerne har fått en sykdom som de behandler i', chunks=None)

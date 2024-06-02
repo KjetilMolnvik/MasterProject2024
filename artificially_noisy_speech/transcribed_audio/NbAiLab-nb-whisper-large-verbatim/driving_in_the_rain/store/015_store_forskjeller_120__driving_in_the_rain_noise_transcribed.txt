@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' altså jeg skjønner at det er jo sånn det fortsetter å gå', chunks=None)

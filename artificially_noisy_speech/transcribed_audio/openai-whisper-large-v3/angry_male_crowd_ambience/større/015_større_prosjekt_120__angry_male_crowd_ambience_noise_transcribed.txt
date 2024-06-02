@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' I love you.', chunks=None)

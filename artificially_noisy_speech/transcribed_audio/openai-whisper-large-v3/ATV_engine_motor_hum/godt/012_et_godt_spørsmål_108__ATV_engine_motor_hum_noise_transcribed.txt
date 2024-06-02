@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Det här blir ett gott spåsmål. Det här är alltså brytkanskans utbud på. Vi får se om det här är ett annat. Det här är ett annat.', chunks=None)

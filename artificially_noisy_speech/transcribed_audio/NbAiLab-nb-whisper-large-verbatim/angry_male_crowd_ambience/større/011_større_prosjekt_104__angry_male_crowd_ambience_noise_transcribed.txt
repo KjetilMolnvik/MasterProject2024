@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og han hadde et større prosjekt gårende allerede som var et samarbeidsprosjekt med stoutford nru macgill og dunk dunk uleve tekostad i stockholm hvor man jo vi satte opp for hos spesialmenn de framme som gjorde at vi kunne altså at vi kunne spille konsert som foregikk på alle stedene samtidig', chunks=None)

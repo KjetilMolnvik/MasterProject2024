@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' en tusen takk', chunks=None)

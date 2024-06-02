@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Jeg skjønner at det er store forskjeller fra å associere deg med en digre superstjerne, til å være med på å skrive skolearbeid. Ja da, da og nært. Til å være her i København og skrive forskjellig, og ligge helt sammen.', chunks=None)

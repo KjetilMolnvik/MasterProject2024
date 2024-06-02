@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Det er jo store forskjell fra å associere med sånne som er superhustige, og å være med på å skrive, ikke som vi har i min karta, men som er noen døra. Det å være her i bussen, og å få til å bli opptatt av sånne som er så mye mer sannere,', chunks=None)

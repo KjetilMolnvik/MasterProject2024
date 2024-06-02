@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og det kan jo være til å å være her i posen og rett og slett drive forskning på jorda ut av landet', chunks=None)

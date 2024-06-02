@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Så kanske det är den engelska förbindelsen som är en av de som är med i den här utbildningen. Varje bra tillbesök på ett utlägg för att få ett äldre bevare. Visst har inte alla barn eller unga en självklarhet för att få ett äldre bevare. Men det är inte en kvalitet som är så stor.', chunks=None)

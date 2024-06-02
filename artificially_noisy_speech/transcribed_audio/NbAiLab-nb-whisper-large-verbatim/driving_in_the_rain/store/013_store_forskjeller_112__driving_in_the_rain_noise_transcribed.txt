@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' men hva hva altså jeg skjønner at det er jo store forskjeller fra å liksom assosiere den der sånn sånn her superstjerne og new york og å være med på å skrive', chunks=None)

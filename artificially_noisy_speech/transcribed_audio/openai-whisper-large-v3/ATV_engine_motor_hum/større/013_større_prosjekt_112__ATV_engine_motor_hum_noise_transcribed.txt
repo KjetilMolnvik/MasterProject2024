@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og han hadde et større prosjekt på året da allerede som var et samarbeidsprosjekt med Stanford for å tenke på at det kunne bli en ny bil. Det var en samarbeidsprosjekt med en spesial firma der, som var på året som var tål på året, og alle de tre disse prosjektene.', chunks=None)

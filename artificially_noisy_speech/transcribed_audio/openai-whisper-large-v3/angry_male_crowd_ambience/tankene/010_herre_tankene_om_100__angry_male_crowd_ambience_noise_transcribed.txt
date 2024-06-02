@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og det her tanket om at man var samlet mange år, at man fylgde grever på disse samlingene, det førte til at i et fallet, når det kom til dette punktet, at det fortalte, den som var anklagd å fortalte, at de hadde drømmert i et kjoldensamling, så kom det stangig opp neste spørsmål. Hvem anklagde det?', chunks=None)

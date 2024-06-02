@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og de herre sansene om at man var samla mange og at man ikke skal djevel på ditt land det fører til en kast i et forhold der man kom til trettiårsavtale og fortalte det og det som var anklaga og fortalt at de hadde involvert et nordisk samfunn og kommet land i kristen nesten først og hvem hadde det svart', chunks=None)

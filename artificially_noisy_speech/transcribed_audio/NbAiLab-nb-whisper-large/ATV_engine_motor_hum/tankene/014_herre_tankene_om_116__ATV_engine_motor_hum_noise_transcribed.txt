@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text='... og vi har en tvangsfakt om at man må samle bare tanker...', chunks=None)

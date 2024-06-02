@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' veldig et godt spørsmål og det er jo', chunks=None)

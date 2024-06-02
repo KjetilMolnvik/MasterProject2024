@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Det är en av de största frågorna som vi har fått från folk i Sverige. Det är en av de största frågorna som vi har fått från folk i Sverige.', chunks=None)

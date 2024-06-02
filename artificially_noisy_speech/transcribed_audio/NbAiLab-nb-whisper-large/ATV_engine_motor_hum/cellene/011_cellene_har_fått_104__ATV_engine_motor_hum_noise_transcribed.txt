@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Så cellene har fått en kode som de behandler på ulikt vis. Da bruker jeg å forklare med at som en motebok, så er det DNA-en.', chunks=None)

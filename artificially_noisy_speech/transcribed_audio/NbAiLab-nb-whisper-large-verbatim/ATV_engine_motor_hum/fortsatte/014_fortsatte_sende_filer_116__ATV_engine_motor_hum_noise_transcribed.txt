@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' så så så', chunks=None)

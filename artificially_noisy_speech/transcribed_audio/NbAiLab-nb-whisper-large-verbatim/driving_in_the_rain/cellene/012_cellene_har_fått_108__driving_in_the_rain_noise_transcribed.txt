@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' så selv da har jeg fått den koden som de behandler på ulikt vis da bruker jeg å forklare det med at', chunks=None)

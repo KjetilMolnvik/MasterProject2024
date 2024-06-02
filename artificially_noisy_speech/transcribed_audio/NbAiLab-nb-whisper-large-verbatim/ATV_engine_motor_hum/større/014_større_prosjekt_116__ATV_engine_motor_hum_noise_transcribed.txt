@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' det er å og han hadde et stort prosjekt to år siden allerede som var et samarbeidsprosjekt med srp', chunks=None)

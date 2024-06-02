@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Så kjellavån kan vi behandle ulike vis. Så brukar eg å ta den som en minkebord. Så er det en av de fleste som har kjellavån. Så kan eg ta den som en minkebord. Så kan eg ta den som en minkebord.', chunks=None)

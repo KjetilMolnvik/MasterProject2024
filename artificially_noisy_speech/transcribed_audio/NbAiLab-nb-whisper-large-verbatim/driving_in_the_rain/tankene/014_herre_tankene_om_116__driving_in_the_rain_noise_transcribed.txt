@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og de herre tankene om at man går man går kjennere', chunks=None)

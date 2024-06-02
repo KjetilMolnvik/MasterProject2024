@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og det her tankene om at man var samla mange år, at man fylgde djevel på disse samlingene, det førte til at i et forhold, når det kom til dette punktet, at de fortalte, den som var anklagd og fortalte, at de hadde gått med til et kjoldomssamling, så kom det stangig opp neste spørsmål, hvem anklagde for systemet.', chunks=None)

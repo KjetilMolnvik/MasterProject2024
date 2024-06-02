@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Jeg skjønner jo at det er store forskjell fra å associere med sånne som er super stjerne og bo i New York, og å være med på å skrive i en utgangspunkt i New York, til å være her i Kyrkestad, og rett og slett bli med på å skrive sammen.', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Субтитры создавал DimaTorzok', chunks=None)

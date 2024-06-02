@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Jeg skjønner at det er store forskjeller fra å associere det som er dyre, det som er superstjerne, å bo i New York, å være med på å skrive hytter som drar inn milliarder av dollars, til å være her i Tromsø og rett og slett drive forskning og finne ut hvordan ting henger sammen.', chunks=None)

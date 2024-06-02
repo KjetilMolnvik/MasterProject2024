@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text='... og disse sansene om at man må samle mange og at man synker djevel på disse sammenhengene, det førte til at i et forhold som... Når det kom til dette forholdet, at den som var anklaget fortalte at de hadde vært med på et trolldomssamling, så kom bestandig opp neste spørsmål hvem andre var i stedet.', chunks=None)

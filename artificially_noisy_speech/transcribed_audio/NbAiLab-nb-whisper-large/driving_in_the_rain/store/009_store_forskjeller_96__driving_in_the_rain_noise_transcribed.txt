@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Jeg skjønner at det er store forskjeller fra å assosieres med digre... Altså sånn superstjerne å bo i New York og være med på å skrive hiter som drar inn milliarder av dollars... Til å være her i Tromsø og drive forskning og finne ut hvordan ting henger sammen.', chunks=None)

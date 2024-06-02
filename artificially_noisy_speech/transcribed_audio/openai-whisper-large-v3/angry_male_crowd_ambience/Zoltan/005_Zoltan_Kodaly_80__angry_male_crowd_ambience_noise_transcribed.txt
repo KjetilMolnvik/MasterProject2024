@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Svartan Kodai er den ungerske pedagogen som har laget sammen med sin kollega Elsebeth Søny har laget et fantastisk godt og veldig bra progresjon på et opplegg for å få et bedre gehør. Og de startet allerede i barnehagen i Ungarn med solfa, som vi kaller det, altså solfesh, hvor de har handtegn på de samme stavelsene.', chunks=None)

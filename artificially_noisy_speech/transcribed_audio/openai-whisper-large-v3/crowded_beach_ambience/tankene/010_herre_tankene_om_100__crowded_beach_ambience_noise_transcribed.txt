@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og det her er tansen om at man har samla mange år at man tykka djævel på disse samlingene. Det kørte til at i et forhold, når det kom til dette kundet og fortalte, den som var anklaget fortalte at de hadde vært med på et kjaldomstam, så kom bestandig opp neste spørsmål. Hvem andre var bestemte?', chunks=None)

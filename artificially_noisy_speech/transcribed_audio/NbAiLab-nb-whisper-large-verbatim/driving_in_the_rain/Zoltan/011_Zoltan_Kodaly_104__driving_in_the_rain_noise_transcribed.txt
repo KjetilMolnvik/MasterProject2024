@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' sorten kodai er den ungarske pedagogen som som har laga sammen med sin kollega else bochsen vi har laga fantastisk det er godt og veldig bra proposisjon på et opplegg for å få et bedre gehør og de stakk allerede i barnehagen i ungan med solstad som vi kaller det altså pt hvor de har håndtegn på de samme stavene', chunks=None)

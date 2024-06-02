@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Det er et godt spørsmål. Jeg har brukt ganske mye tid på å finne ut hva jeg så. Jeg gikk gjennom denne regjeringen, Norsk, BNH, Storbritannia, og lærte meg de skolenes grenser. Jeg fulgte det som den første læreren borte av Strøy og sammenslutte. Den gikk på det samme som jeg. Det var en god måte å oversette seg.', chunks=None)

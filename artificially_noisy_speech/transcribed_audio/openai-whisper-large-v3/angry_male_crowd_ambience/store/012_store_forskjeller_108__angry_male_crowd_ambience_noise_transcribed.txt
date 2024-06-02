@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Jeg tror det er en stor forskjell på å være en superhelskel, en enda enn mulighet, og være med på å skrive og skutte seg og dra inn i en mye av det. Til å være her i Kronstedt, og rett og slett bli et forskningstid mot litt av det som er i Kronstedt.', chunks=None)

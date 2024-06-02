@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Han har et større prosjekt som er et samarbeidsprosjekt med Stavetroll, en del av NU i Stavetroll. Når de satte opp spesialmannene for fremmede, så kunne de spille et prosjekt som foregikk på alle steder samtidig.', chunks=None)

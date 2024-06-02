@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' er det trygt der inne', chunks=None)

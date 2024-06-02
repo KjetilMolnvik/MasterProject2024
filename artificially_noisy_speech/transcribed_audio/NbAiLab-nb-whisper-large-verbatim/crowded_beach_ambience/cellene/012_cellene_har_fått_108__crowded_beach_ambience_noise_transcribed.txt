@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' så kan vi la det gå rett så kan vi ta det inn', chunks=None)

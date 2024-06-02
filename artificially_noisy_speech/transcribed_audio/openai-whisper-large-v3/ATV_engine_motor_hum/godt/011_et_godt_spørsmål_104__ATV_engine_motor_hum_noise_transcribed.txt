@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Det er jo et godt spørsmål, og det har jeg brukt mye tid på å finne ut av selv også, for i to av seg gjennom her i landet, så har vi stått på en vannhavs, og det har vi gjort mer av, så det har vi gjort mer av. Det har vi gjort mer av, så det har vi gjort mer av.', chunks=None)

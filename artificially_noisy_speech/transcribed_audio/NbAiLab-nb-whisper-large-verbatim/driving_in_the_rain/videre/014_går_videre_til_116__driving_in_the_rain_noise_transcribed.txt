@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og det er bare før vi går videre til det henriksen treåringsstiftet som har jo en del i det som er et stort medslag at det var jo det veldig populære landet til gangen av sx som har kommet bak på landet og drit i nordland og', chunks=None)

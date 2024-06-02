@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Jeg skjønner at det er store forsøk å associere et dygre, superstjerne by i New York, og være med på å skrive kutter som drar inn milliarder av dollars, til å være her i Tromsø og drive forskning og finne ut hvordan ting henger sammen.', chunks=None)

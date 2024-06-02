@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' så jeg takker dagens ærend for at det er en god og lykkelig og', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og han hadde eit stort prosjekt to år siden allerede som var eit samarbeidsprojekt med S-15. Og han hadde eit stort prosjekt to år siden allerede som var eit samarbeidsprojekt med S-15.', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' de fortsatte å sende meg til innrø da var det sånn at når de de satt der og jobba så så så ikke sant så pga tidsforskjeller så var det sånn når de', chunks=None)

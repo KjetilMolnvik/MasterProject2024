@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' se', chunks=None)

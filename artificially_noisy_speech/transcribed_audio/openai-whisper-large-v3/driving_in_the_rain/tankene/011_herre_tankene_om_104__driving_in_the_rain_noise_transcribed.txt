@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og dei her tankane om at ein var samla mange år, at ein tilgav djævel på desse samlingar, det kørte til at i eit forhør, når du kom til dette punktet, at du fortelte, den som var anslaget fortelte at dei hadde gått med for å slå en doktorn, så kom det standig opp med at han andre var bestemt.', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Så cellene har fått en kode som de behandler i.', chunks=None)

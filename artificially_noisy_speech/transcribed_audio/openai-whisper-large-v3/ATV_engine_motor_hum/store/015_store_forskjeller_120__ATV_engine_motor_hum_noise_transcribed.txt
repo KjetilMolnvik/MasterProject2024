@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Nå er det en biljett, som er på stjålplåten.', chunks=None)

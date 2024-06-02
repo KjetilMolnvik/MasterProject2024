@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og det er bare et spørsmål om å vise det til at', chunks=None)

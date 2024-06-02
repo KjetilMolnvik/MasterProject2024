@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' de fortsatte å sende meg filer og da var det sånn at når de de satt der og jobba så så', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Sårtan Kodai er den ungarske pedagogen som har laga sammen med sin kollega Elisabeth Sjøne, har laga eit fantastisk og godt og veldig bra progresjon på eit opplegg for å få eit bedre gehør. Og de starta allerede i barnehagen i Ungarn med solfa, som vi kallar det, altså erosolfek, hvor de har handtegn på disse menneska også.', chunks=None)

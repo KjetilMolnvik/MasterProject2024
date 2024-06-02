@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' så tenker jeg den ungarske pedagogen som som har laga sangen med sin kollega elsebeth sjøl og har laga et fantastisk og godt og veldig bra progresjon på et opplegg for å få et bedre gehør og de starter allerede i barnehagen i ungarn med solfa som vi kaller det altså eller solfé hvor de har handtegn på de samme skala', chunks=None)

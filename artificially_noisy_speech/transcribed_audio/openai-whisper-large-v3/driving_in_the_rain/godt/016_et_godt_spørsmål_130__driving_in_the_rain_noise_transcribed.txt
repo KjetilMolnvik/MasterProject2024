@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Våre vissdomar, de vissdomar som vissdomar, de vissdomar som vissdomar, de vissdomar som vissdomar,', chunks=None)

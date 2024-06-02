@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' The Constitution of the United States of America is a law that is not just a law. It is a law that is not just a law. It is a law that is not just a law.', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' så cellene har fått den koden som de behandler for olje', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Neste video, je vais vous montrer comment faire un tir de la voiture en mode auto.', chunks=None)

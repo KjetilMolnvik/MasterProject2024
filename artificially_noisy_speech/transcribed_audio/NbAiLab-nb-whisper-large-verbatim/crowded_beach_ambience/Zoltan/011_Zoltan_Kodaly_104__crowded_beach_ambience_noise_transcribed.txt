@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' så jeg tror da er den ungarske telefonen som som har laga sammen med min kollega elsen rødtgjørgen å lage fantastisk og godt og veldig bra kompetanse på et opplegg for å få et bedre gehør og de skal ikke alle holde i barnehage med ungene som holder på med å lære seg å få elektronikk hvor de har hannen peipet i seg i stedet', chunks=None)

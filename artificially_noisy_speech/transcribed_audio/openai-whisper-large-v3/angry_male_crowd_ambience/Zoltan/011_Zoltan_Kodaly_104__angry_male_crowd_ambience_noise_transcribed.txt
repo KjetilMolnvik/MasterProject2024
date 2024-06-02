@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Så kanskje det er den unge kategorien som har laga saman med min kollega Elsin Baksén, som har laga et fantastisk bra bok, og veldig bra produksjon på ett utlegg, eller på ett del du har. Og du starta allerede i barnehagen med unga, men har solgt, som vi kaller det, altså solgt helt. Hvor du har hentengt på disse ønskene?', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og det her er et ansvar om at man må samle mange år, at man kjøper jævel på samling.', chunks=None)

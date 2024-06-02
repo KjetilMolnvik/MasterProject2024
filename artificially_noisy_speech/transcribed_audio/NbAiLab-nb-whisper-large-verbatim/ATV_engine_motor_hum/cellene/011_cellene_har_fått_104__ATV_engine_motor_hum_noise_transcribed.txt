@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' så selv da må jeg få den kode som dem behandler på ulikt vis da bruker jeg å forklare med at som en motebok så er dna så får være sånn', chunks=None)

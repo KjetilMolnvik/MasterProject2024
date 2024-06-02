@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og det er et godt spørsmål og det har altså brukt mange skilnader på skole og i utlandet', chunks=None)

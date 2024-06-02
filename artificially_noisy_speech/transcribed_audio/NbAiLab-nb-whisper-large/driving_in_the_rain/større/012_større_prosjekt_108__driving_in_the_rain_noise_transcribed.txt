@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og... han hadde et større prosjekt gående da allerede, som var et samarbeidsprosjekt med Stamford, NYU, McGill og den kunngjorde teknisk i Stockholm. Hvor vi satte opp et spesiallagd brannvare som vi kunne spille konsert ut på alle stedene samtidig.', chunks=None)

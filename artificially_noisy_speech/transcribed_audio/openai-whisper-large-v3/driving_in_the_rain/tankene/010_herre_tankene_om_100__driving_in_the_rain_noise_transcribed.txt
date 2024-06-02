@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og dei her tankane om at ein var samla mange og at ein tilba djævel på desse samlingar, det kørte til at i eit forhør, når du kom til dette punktet, at du fortalte, den som var anslaget fortalte, at dei hadde gått med på eit kjoldomssamling, så kom bestandig opp med at kjoldomssamlinget, kjem andre var bestemt.', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Nå er det en av de fleste som har kastet seg i. Det er en av de fleste som har kastet seg i.', chunks=None)

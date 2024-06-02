@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Det er en god spørsmål. Det er en brukt passende utgående. Det er oss som har gjort det. Vi får se om vi kan få det. Det er en god spørsmål. Det er en god spørsmål.', chunks=None)

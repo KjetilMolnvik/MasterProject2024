@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Det er spilt ut.', chunks=None)

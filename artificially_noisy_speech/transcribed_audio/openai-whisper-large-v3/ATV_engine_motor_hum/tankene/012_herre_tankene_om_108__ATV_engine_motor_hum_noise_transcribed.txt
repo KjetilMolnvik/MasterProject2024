@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og det her er tanken om at man må samle mange, og at man tilføjer jævel på de samlingene. Det er en stor problematikk, og det er en stor problematikk. Det er en stor problematikk, og det er en stor problematikk.', chunks=None)

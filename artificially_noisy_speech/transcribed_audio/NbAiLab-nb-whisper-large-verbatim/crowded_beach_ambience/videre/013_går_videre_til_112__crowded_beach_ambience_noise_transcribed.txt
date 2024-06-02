@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og det er svaret på at vi går dit etter i ett og ett og et halvt år bare nevne det da at det er et politisk nedslag og at det var jo veldig tungt vei mens det var en til i dagens tall e6 som er en politisk nedslagsplan som ikke går etter det hadde fått til på ferdig og forsøkt på i dagens dagslag for høy', chunks=None)

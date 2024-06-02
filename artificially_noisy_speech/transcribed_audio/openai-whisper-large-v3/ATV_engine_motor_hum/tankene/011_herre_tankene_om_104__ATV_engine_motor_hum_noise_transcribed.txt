@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og de her tankane om at ein var samla mange og at ein tilba djevel på disse samlinga, det kjønner seg at i et årsforskning, når det kom ut en kjøkken som kjøkkenet, den som var anslaget for kjøkkenet, og de har prøvd mer på å kjøkken samle, så kom det samling som kjøkkenet, men det var ikke så mye kjøkkenet man kjøkkenet.', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og det er bare før vi går videre til henrik den fjerde stykkene så kan vi bare nevne det da at den har jo en sånn historisk medslag', chunks=None)

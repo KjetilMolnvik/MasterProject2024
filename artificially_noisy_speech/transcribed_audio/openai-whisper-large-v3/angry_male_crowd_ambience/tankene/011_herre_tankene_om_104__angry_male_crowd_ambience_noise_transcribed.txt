@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og det her var kanskje om at man må samle mannen på at man fulgde gjerder på disse samlingene. Det var klart at han, i et samling, hadde kommet til dette punktet, at det fortalte seg, det som var anklaget å ta på, at de hadde vært med på et samlingssamling. Så kom det stadig opp mange spørsmål, hvem anklagde det for det?', chunks=None)

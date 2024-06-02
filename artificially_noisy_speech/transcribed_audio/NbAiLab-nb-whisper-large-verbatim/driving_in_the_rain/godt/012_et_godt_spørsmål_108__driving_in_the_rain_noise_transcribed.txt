@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' ja det er et godt spørsmål og det er jo jeg har altså brukt ganske mye på å skille ut og altså for at ikke altså gjennom å herre og ta an på norske', chunks=None)

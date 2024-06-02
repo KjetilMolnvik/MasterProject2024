@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' er det noen som har lyst til å ta en tur med meg', chunks=None)

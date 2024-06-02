@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' altså jeg skjønner jo at det er jo store forskjeller fra å liksom assosieres med digre altså sånn her superstjerner og new york og å være med på å skrive fitter som drar inn i handa av dollars til å å være her i tromsø og rett og slett drive forskning og finne ut litt av hvordan ting henger sammen', chunks=None)

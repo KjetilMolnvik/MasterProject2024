@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og det bare før vi går videre til det enkelte fjerde stikket så kan vi bare nevne det da at den den har jo en', chunks=None)

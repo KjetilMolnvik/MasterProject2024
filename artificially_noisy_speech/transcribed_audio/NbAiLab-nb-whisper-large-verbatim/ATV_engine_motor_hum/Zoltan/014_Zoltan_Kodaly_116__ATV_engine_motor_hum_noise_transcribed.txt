@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og så kan du leie den innreise parodien til', chunks=None)

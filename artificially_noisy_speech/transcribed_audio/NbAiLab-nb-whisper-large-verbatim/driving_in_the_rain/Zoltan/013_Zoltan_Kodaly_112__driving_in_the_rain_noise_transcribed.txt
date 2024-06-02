@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' så kan hvordan er den ungarske pedagogen som som har laga sammen med sin kollega elsker og søker og har laga og veldig bra produksjon', chunks=None)

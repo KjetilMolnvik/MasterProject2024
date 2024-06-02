@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Han hadde et større prosjekt gården av allerede, som var et samarbeidsprosjekt med Stanford og en annen myndighet, McGill. Og det var en av de største i Stockholm. Vi satte opp en spesial løpvare som kunne spille etter saks som pågikk på alle stemmene samtidig.', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text='... så følger man etter den tide som man behandler...', chunks=None)

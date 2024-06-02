@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og han hadde et større prosjekt gående da allerede som var et samarbeidsprosjekt med Stanford, NYU, McGill og den kundlige barnevernsfaget i Stockholm. Hvor de satte opp en spesial inngang i framtiden som kunne spille konsekvens på andre steder samtidig.', chunks=None)

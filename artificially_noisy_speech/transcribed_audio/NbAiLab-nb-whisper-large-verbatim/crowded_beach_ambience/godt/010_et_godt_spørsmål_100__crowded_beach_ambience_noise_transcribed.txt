@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' det er et godt spørsmål og det er jo jeg har altså brukt ganske mye tid på å kunne uttale oss også for at ikke å si det men jeg mener her er jo vanlige norske respekter og så og og lærte jo mange å sitte i grensa så så og og fulgte jo det som er første lærebåt reiser i årene', chunks=None)

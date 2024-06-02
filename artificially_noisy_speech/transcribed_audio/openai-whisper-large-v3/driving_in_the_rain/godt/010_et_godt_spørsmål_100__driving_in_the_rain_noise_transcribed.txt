@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Ja, det er et godt spørsmål. Jeg har brukt ganske mye tid på å finne utgangsskjøl også. Jeg gikk gjennom det norske utgangsløpet og lærte om at visike i mennesker er ensomme. Jeg fikk det som den første lærerboken jeg skrev i samfunnskurset. Det er viktig å få det samme som det var egentlig når man hadde oversett seg.', chunks=None)

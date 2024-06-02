@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og de her tankene om at man var samlet mange, og at man tilba djevel på disse samlingene, det kjøper til at de er fornøyde. For det kom ut etter kveld, og fortalte den som var anklaget, fortalte at de hadde vært med på et sånt samling. Så kom det stendig opp neste spørsmål. Hvem var det som var anklaget?', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' så det er ikke noe', chunks=None)

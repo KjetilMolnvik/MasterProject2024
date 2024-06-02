@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text='... og disse tankene om at man var samla mange og at man tilga djevelen på disse samlingene, det fløt det til at i et forhør, når du kom til dette punktet, da du fortalte...... det var anslag å formelle, når du hadde vært med...... så kom bestandig opp...', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Det er jo sånn at det er jo småløpåsøk, for å må assisere med de som har en stålstid. Det er jo sånn at det er en stålstid, og det er jo sånn at det er en stålstid,', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' De fortsatte å sende meg filer, og da var det som om de som jobbet der, så fikk de opp noen av fikkene, og da fikk de opp noen av de som fikk de utforskningene fra FN. Da fikk de opp filer, og da fikk de opp noen av de som var med i Malaga. De fikk opp filer fra Malaga, og de fikk opp filer fra FN.', chunks=None)

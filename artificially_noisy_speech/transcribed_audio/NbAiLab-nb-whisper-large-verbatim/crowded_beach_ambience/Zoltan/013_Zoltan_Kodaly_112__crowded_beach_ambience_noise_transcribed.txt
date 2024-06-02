@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og det er en av de beste tingene som er i verden', chunks=None)

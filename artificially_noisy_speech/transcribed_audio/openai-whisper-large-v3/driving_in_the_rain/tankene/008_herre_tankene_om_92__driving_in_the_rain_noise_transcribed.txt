@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og dei her tankane om at ein var samla mange og at ein tilba djevel på desse samlingar, det førte til at i eit forhør, når du kom til dette punktet, at du fortelte, den som var anklagad fortelte, at dei hadde vært med på ei trolldomssamling, så kom bestandig opp neste spørsmål, hvem andre var til stede.', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' så kan kanskje da gjøre den ungarske pedagogen som som har laga sammen med sin kollega elsebergsten laga', chunks=None)

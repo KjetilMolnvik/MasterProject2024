@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og det hadde tanka om at man var så nære og så nære at man kilde seg fjellet på en kjøkken. Det kjøkkenet var så nære at i en kjøkken med en kjøkken som var så nære at man kilde seg fjellet på en kjøkken.', chunks=None)

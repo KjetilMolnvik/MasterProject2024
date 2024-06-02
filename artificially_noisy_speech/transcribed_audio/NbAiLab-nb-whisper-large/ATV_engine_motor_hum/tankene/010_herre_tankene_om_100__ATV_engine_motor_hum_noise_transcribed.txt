@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og disse tankene om at man var samla mange, og at man tilba djevel på disse samlingene... Det fører til at vi er fornøyd, for kom til det spørsmålet man forteller seg... Den som var anklaget, fortalte at de har vært med på et trolldomssamtale... Så kom bestandig opp neste spørsmål hvem andre var.', chunks=None)

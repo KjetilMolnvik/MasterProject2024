@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' enhver som har vanskelig for å få tilbake', chunks=None)

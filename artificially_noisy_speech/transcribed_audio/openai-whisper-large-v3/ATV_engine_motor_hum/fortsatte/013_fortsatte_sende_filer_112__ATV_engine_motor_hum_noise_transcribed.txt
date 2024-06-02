@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Vi fortsatte å sende dem tidene. Da var det som om når de satt der og jobbet, så på en tidstid, så var det som om de......så var det som om de......så var det som om de......så var det som om de......så var det som om de......så var det som om de......så var det som om de...', chunks=None)

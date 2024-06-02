@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' så jeg tenkte da jo', chunks=None)

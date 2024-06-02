@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Selv om man har fått en kode som man behandler på ulik vis, bruker jeg å fortelle at som en notebok er det DNA. På hver gang man er notert, står det i kode at man tar en kode. Og uten å starte en kode, så kan man ta en ny kode. Men det blir ulikt så mange dager man har. Det blir veldig spennende.', chunks=None)

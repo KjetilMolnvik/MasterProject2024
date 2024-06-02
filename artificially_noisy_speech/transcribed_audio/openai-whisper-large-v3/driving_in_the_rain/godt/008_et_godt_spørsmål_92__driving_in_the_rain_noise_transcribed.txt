@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Ja, det er et godt spørsmål. Jeg har brukt ganske mye tid på å finne ut av selv også. Jeg gikk gjennom det vanlige norske eller vestlige utdanningsløpet og lærte om visiplinen og grensene. Den første lærerboken jeg skrev i samme sluttetid, den gikk jo på det samme som den oversettelsen jeg har lært.', chunks=None)

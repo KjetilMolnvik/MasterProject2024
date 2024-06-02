@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Den ungarske pedagogen som har laga sammen med sin kollega Elsebeth Søni fantastisk godt og veldig bra progresjon på et opplegg for å få et bedre gehør. De starta allerede i barnehagen i Ungarn med solfa, eller solfège. Hvor de har håndtegn på de samme stavelsene.', chunks=None)

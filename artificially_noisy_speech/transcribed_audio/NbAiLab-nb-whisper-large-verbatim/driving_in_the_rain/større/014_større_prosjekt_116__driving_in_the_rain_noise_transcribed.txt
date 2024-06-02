@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og og han hadde et stort prosjekt', chunks=None)

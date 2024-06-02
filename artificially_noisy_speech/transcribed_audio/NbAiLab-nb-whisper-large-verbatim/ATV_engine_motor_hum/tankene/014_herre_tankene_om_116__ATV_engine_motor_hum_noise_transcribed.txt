@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og de herre taler om at det skal være samlebar samtale på akkurat i bakken', chunks=None)

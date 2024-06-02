@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' er det noen som har sagt noe om', chunks=None)

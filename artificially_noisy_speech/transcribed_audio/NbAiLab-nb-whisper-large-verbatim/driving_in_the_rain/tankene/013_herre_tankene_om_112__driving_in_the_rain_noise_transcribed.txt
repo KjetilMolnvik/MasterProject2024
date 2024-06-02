@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og de herre tankene om at man man var samla mange år at man tilga jæren fordi det skjedde at vi er kommet med fem til tre poeng', chunks=None)

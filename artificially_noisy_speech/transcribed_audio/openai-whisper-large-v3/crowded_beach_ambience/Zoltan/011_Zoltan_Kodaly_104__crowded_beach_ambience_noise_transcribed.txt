@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og da er denne unge akkestereologen som har laget sammen med min kollega Elisabeth Søren, har laget en fantastisk, god og veldig bra produksjon for et opplegg for å få et bedre bevar. Og de startet allerede i barnehagen med unge akkestereologer som alle er til å holde til. Hvor de har handtenket i samme sted.', chunks=None)

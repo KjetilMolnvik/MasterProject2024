@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Jeg skjønner at det er store forskjeller fra å associere deg med dygre superstjerne, bo i New York, være med på å skrive hitter som drar inn milliarder av dollars, til å være her i Tromsø og drive forskning og finne ut hvordan ting henger sammen.', chunks=None)

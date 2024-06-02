@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og så jeg skjønner at det er jo store forskjeller fra å liksom assosiere seg med superstjerner å bo i nord-new york og å være med på å skrive ting som sklarer i midjarta og dollar til å å være herregudelig og rett og slett drive kortspill uten utbytta politikk heilt sammen', chunks=None)

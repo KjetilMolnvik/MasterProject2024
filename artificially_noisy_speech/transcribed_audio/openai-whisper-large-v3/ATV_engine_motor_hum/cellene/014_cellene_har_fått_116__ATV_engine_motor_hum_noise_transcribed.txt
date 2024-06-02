@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Så kallar man på den sida, så man behander på den. Så det er det som tar den ut, så man må nyke mot. Så det er det som tar den ut. Så det er det som tar den ut.', chunks=None)

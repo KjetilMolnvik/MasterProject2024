@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' så følger man med på hvordan det skal handle så da bruker jeg å fortelle deg at sånne myke ord så er det nå jeg syns så får være sånn myke sprett så kan du ta den og hvis du tar den opp etter instrument så kan du ta den og det blir ulikt hvor mange som vet enn om piano', chunks=None)

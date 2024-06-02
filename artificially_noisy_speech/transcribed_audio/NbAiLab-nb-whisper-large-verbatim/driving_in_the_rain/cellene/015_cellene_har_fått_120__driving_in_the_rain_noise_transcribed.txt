@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' så følger han med på den kloden som han behandler', chunks=None)

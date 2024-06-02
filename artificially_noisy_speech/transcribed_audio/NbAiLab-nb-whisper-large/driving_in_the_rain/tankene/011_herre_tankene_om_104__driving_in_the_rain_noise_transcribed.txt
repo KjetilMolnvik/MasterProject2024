@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text='... og disse tankene om at man var famla mange og at man tilga djevelen på disse samlingene, det førte til at i et forhør, når du kom til dette punktet, at du fortalte den som var anslaget, at de hadde gått med på en trolldomssamling, så kom bestandig opp nettopp hvem andre var.', chunks=None)

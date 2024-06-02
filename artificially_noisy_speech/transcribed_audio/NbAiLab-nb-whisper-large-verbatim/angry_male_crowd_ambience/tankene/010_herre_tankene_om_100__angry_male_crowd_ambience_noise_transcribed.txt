@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og de herre tankene om at man var samme mange år at man fylga djevelen på disse sammenhengene det førte til at i et forhold når de kommer til dette punktet at de fortalte den som var anklaget å fortelle at de hadde dømert en tolvdøgnssonen så kom bestandig opp neste spørsmål hvem andre', chunks=None)

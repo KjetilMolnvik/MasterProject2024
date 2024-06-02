@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Hvordan er den ungverske pedagogen som har laget sammen med sin kollega Elisabeth Søne, laget en fantastisk og veldig bra produksjon på et beveggeverk? Og de startet allerede i barnehagen over med solgstallet, hvor de har handtenkt på disse skadene.', chunks=None)

@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Selv om man har fått en kvide som er behandlet på inrikt, bruker jeg å si at som en mytebok er det en art. På hver myte strep står kvida i en kvalitur. Når man skal spille til instrument, kan man ta den myte linjen og spille. Det blir ulikt om man gjør det til en kvite eller piano. Det blir litt annerledes.', chunks=None)

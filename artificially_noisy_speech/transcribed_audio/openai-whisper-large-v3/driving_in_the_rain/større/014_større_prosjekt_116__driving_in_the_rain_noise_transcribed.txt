@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Og han hadde eit større prosjekt både då og allerede som var eit samarbeid med Scam.no, L.A.U. og B.A.T.C. og det var eit utvikling av teknisk vei i Stockholm. Det var en samarbeid på det viske sosiale landet i Brøndal som var med i å spille til 16.000 kroner på andre steder samtidig.', chunks=None)

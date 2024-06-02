@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' er det noen som har skrudd på skjermen', chunks=None)

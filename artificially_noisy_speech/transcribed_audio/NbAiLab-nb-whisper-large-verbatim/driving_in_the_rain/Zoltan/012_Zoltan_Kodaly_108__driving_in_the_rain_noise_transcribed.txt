@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' så kan hvor da er den ungarske pedagogen som som har laga sammen med sin kollega else boksøy med å laga en fantastisk godt og veldig bra produksjon på et opplegg for å få et bedre gehør og de stakker allerede i barnehagen i ungarn med kontakt og kaller det for de har handtegn på disse stedene', chunks=None)

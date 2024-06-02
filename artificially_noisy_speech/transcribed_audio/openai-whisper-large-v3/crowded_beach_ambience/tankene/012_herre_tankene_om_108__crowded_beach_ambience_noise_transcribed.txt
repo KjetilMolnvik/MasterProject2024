@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' Und die Hände in den Händen, oh mein Gott, man muss noch ein paar Mühle an den Händen. Und dann macht ihr so ein Lärm von den Händen. Der ist so ein bisschen... Das ist ein bisschen... Das ist ein bisschen...', chunks=None)

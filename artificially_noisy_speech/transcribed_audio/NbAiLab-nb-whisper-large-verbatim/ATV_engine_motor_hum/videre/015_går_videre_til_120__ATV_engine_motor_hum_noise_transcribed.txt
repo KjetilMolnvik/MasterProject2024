@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og det er bare følg med på det', chunks=None)

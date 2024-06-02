@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' og og han hadde et større prosjekt gående da allerede som var et samarbeidsprosjekt med stanford mauju mecklen', chunks=None)

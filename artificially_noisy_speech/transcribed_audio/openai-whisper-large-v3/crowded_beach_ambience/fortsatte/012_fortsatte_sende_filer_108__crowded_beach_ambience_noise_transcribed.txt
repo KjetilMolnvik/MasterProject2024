@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text=' De fortalte å sende fire til meg, så da de satt der og jobbet, så fikk de studiet om fortelling. Da fant jeg det som å rekommendere barnehagen, mikse og gjøre det som om det var en del av arbeidet. Så sendte jeg fire til dem, og de fikk snakken når de kom til stedet.', chunks=None)

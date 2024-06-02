@@ -1,0 +1,1 @@
+AutomaticSpeechRecognitionOutput(text='... og det er bare før vi går videre til Henrik 4. stykket, og så kan vi bare nevne det, da, at dette stykket har jo en sånn historisk nedslag...... han var jo veldig godt kjent med en gang han var i Danmark og hadde kommet til noe særlig...... og forsøkte å få kontakt med den samme virksomheten som han er nå...', chunks=None)
